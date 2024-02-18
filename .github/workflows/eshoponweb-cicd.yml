@@ -12,6 +12,7 @@ env:
   WEBAPP-NAME: eshoponweb-webapp-ak314
 
 
+
 jobs:
   #Build, test and publish .net web project in repository
   buildandtest:
